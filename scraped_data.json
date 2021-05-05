@@ -1,0 +1,20 @@
+{
+    "Basic_info": {
+        "first name": "Rick",
+        "last name": "Craig",
+        "headline": "IT Director at Virginia Tech",
+        "LinkedIn": "https://www.linkedin.com/in/rick-craig-6321b2a3/"
+    },
+    "Education": [],
+    "Projects": [],
+    "Certifications": [],
+    "Experience": {
+        "Virginia Tech": {
+            "postion": "IT Director",
+            "dates": "Jan 2003 \u2013 Present",
+            "description": ""
+        }
+    },
+    "Top skills": [],
+    "Volunteering": []
+}
