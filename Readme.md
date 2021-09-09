@@ -32,8 +32,8 @@ All three arguments are required.
 
 Note:
 
-It seems to mess up the postiion adn description when there are multiple positions under the same company. 
-This has to do with the when the tags are organized in the html and can be handled given time.
+The script output messes up the postiion and description when there are multiple positions under the same company. 
+This has to do with the way the html tags are organized in this case and will be handled in furture versions.
 
 
 
